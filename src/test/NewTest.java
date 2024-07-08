@@ -24,8 +24,5 @@ public class NewTest {
   public void last() {
 	  System.out.println("I will execute last");
   }
-  @Test
-  public void f2() {
-	  System.out.println("hellof2");
-  } 
+  
 }
