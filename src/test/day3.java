@@ -8,7 +8,8 @@ public class day3 {
 	public void WebLoginCarLoan() {
 		//Selenium
 		System.out.println("WebLoginCarLoan");
-		System.out.println("Changes made to check for git");
+		//System.out.println("Changes made to check for git");
+		System.out.println("Agagin changing");
 	}
 	@Test
 	public void MobileLoginCarLoan() {

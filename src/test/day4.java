@@ -12,6 +12,7 @@ public class day4 {
 	public void WebLoginHomeLoan(String siteName,String userid) {//sitename will have parameter url value
 		//Selenium
 		System.out.println("WebLoginHomeLoan");
+		System.out.println("Agagin changing");
 		System.out.println(siteName);
 		System.out.println(userid);
 	}
